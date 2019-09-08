@@ -4,5 +4,5 @@
     [Name] NVARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Colors] NVARCHAR(50) NULL, 
-    [size] FLOAT NULL
+    [Size] FLOAT NULL
 )
