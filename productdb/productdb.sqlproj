@@ -63,4 +63,7 @@
   <ItemGroup>
     <Build Include="Prouductox.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="productdb.refactorlog" />
+  </ItemGroup>
 </Project>
