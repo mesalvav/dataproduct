@@ -5,5 +5,5 @@
     [Cost] INT NULL, 
     [Colors] NVARCHAR(50) NULL, 
     [Size] FLOAT NULL, 
-    [time] NCHAR(10) NULL
+    [Timing] NCHAR(10) NULL
 )

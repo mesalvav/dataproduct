@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "productdb", "productdb\productdb.sqlproj", "{7802E26B-931D-4F95-A63C-21A21205C326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{7B1F0BF2-7F1B-45E2-960C-2CB962C29D8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{7802E26B-931D-4F95-A63C-21A21205C326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7802E26B-931D-4F95-A63C-21A21205C326}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7802E26B-931D-4F95-A63C-21A21205C326}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7B1F0BF2-7F1B-45E2-960C-2CB962C29D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1F0BF2-7F1B-45E2-960C-2CB962C29D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1F0BF2-7F1B-45E2-960C-2CB962C29D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1F0BF2-7F1B-45E2-960C-2CB962C29D8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
